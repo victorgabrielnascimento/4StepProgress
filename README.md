@@ -22,8 +22,8 @@
  <h4>~ Open with Live Server ~</h4>
  <br>
  
- ![Next](https://github.com/victorgabrielnascimento/4StepProgress/assets/105366808/096f61c7-9115-4583-92cc-7e77bdb06cb9)
- 
+![Personal](https://github.com/victorgabrielnascimento/4StepProgress/assets/105366808/a554a3b9-54a4-482c-a4f8-499832f5069b)
+
  <h1> Pronto, agora é só testar os componentes na sua main App.svelte! em caso de bug mande um request, obrigado! </h1>
  
  ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
