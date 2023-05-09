@@ -11,14 +11,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f6f7fb;
+  background-color: #736151;
 }
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 40px;
-  max-width: 400px;
+  max-width: 800px;
   width: 100%;
 }
 .container .steps {
@@ -32,34 +32,35 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50px;
-  width: 50px;
-  color: #999;
-  font-size: 22px;
-  font-weight: 500;
-  border-radius: 50%;
-  background: #fff;
-  border: 4px solid #e0e0e0;
+  height: 100px;
+  width: 100px;
+  color: #d9c9ba;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: "Gotham";
+  border-radius: 100%;
+  background: #a68a68;
+  border: 8px solid #d9c9ba;
   transition: all 200ms ease;
   transition-delay: 0s;
 }
 .steps .circle.active {
   transition-delay: 100ms;
-  border-color: #4070f4;
-  color: #4070f4;
+  border-color: #593e1c;
+  color: #593e1c;
 }
-.steps .progress-bar {
+.steps .step-progress {
   position: absolute;
   height: 4px;
   width: 100%;
-  background: #e0e0e0;
+  background: #d9c9ba;
   z-index: -1;
 }
-.progress-bar .indicator {
+.step-progress .indicator {
   position: absolute;
   height: 100%;
   width: 0%;
-  background: #4070f4;
+  background: #593e1c;
   transition: all 300ms ease;
 }
 .container .buttons {
@@ -68,12 +69,14 @@ body {
 }
 .buttons button {
   padding: 8px 25px;
-  background: #4070f4;
+  background: #a68a68;
   border: none;
   border-radius: 8px;
-  color: #fff;
-  font-size: 16px;
-  font-weight: 400;
+  border: 3px solid #d9c9ba;
+  color: #593e1c;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: "Gotham";
   cursor: pointer;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
   transition: all 200ms linear;
@@ -82,6 +85,6 @@ body {
   transform: scale(0.97);
 }
 .buttons button:disabled {
-  background: #87a5f8;
+  background: #f2dcc2;
   cursor: not-allowed;
 }
