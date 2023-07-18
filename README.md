@@ -1,30 +1,36 @@
-### Olá Dev
+### Hello Dev!!
 
 <br>
 
-## Seja bem vindo ao meu estudo da biblioteca Chart.js! Estou usando este repositório como uma biblioteca de templates de gráficos, para que no futuro eu não necessite gastar tempo, apenas necessite implementar os dados, seja manual ou api, todos os gráficos importados aqui agora estão sendo implementados manualmente para não ter erro, estou usando Svelte!
+## Welcome to my css storage, i will put here lots of css components to use in project, can be stuff like menus, dorpdowns or step progreess menu, you can be able to import and use in your projects, be free to make changes at the templates and adapt for whatever you want!
 
+<h3>This is basically a study repositorie, everything that a create and I think will me helpfull one day (for myself or for you guys) will be available here!</h3>
 
-<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodar o APP!</p>
-<br>
-<p>Mas caso não tenha lido, aqui vai um breve resumo, este repositório possuí quase todos os tipos de charts disponibilizados pelo Chart.Js, todos são componentes do Svelte e necessitam ser importados para serem usasdos, caso tenha interesse em aprender mais : biblioteca Chart.Js ==> (https://www.chartjs.org/docs/latest/charts/bar.html</p>
-<br>
-
-##  Pré Requisitos
- - Antes de iniciar o projeto, você vai precisar das seguintes ferramentas: 
+##  Prerequisites
+ - Before start the website, you will need the fallow tools: 
     - ✔️ [VsCode](https://code.visualstudio.com/download);
-    - ✔️ Extenção Live Server for VsCode;
+    - ✔️ [Live Server] (VsCode Extension);
  
-## 📄 Instruções
- <br>
- <h2> Em arquivos, clique com o botão direito em index.html e selecione</h2> 
+## 📄 Instructions:
 
- <h4>~ Open with Live Server ~</h4>
- <br>
- 
-![Personal](https://github.com/victorgabrielnascimento/4StepProgress/assets/105366808/a554a3b9-54a4-482c-a4f8-499832f5069b)
+-Create a fork to your rep, or download the file and open it in your vscode
 
- <h1> Pronto, agora é só testar os componentes na sua main App.svelte! em caso de bug mande um request, obrigado! </h1>
+ <h3>To fork click here:</h3>
  
- ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
- ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
+  ![fork](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/dad949c9-3e0a-40b0-a4bd-361f969abd4d)
+
+  <h3>To download click here:</h3>
+
+![down](https://github.com/victorgabrielnascimento/TextScanner/assets/105366808/45d4211f-dc59-4e12-a205-7a64fa1e3816)
+
+ <br>
+   <h2>Open the project file at VSCode</h2>
+   <br>
+
+   <p>Now all you need is execute the website, click with the right click at index.html an open with live server!</p>
+
+![image](https://github.com/victorgabrielnascimento/First-Website/assets/105366808/823b5806-f177-4130-8ba8-98db46f0cbbd)
+
+ ## 🐱‍👤 Do you liked? please fallow me at -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
+ ## 🌟 Please support me starring this project repositorie 🌟
+ ## 📚 See more projects that I developed-> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
